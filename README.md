@@ -1,2 +1,3 @@
 # Calculator
-This is a Simple Calculator that I have created by using HTML,CSS and JavaScript.
+This is my Repository for Project Calculator.
+In this prioject I have made a Simple Calculator by using HTML,CSS and JavaScript.
